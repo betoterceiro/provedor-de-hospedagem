@@ -1,0 +1,425 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+
+}
+
+.topo-home {
+    background-color: #fff;
+    padding: 35px 0;
+
+
+}
+
+.container-logo .img-topo-home {
+    max-width: 1024px;
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+
+
+
+}
+
+.img-topo-home {
+    width: 80px;
+    position: absolute;
+    top: 0%;
+    right: 27%;
+    margin-right: auto;
+
+}
+
+.container-titulo-topo {
+
+    position: absolute;
+    top: 3%;
+    left: 25%;
+
+}
+
+.titulo-topo {
+    font-size: 35px;
+    color: #000000;
+
+
+}
+
+.paragrafo-topo {
+    font-size: 18px;
+    color: #2f86d6;
+
+}
+
+
+.container-links-topo {
+
+    top: 6%;
+    right: 13%;
+    position: absolute;
+
+
+
+}
+
+.link-topo {
+    text-decoration: none;
+    font-size: 20px;
+    color: #233032;
+
+
+
+
+}
+
+.banner-home {
+    background-color: #2f86d6;
+    padding: 180px 0px;
+}
+
+.container-img-banner {
+    display: flex;
+    max-width: 1024px;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+.img-banner {
+    width: 470px;
+    position: absolute;
+    right: 50px;
+    top: 0px;
+    margin-bottom: 0 auto;
+
+}
+
+.texto-banner {
+    width: 470px;
+
+}
+
+.subtitulo-banner {
+    font-size: 32px;
+    color: #fff;
+}
+
+.paragrafo-banner {
+    font-size: 20px;
+    color: #fff;
+}
+
+.anuncio-home1 {
+    padding: 40px 0px;
+    background-color: #233032;
+    margin: 0 auto;
+
+    display: flex;
+
+    position: relative;
+}
+
+.texto-anuncio {
+    max-height: 1024px;
+    width: 600px;
+    position: absolute;
+    top: 5%;
+    left: 30%;
+
+
+
+
+
+
+
+}
+
+
+.subtitulo-anuncio {
+    font-size: 24px;
+    color: #fff;
+}
+
+.paragrafo-anuncio {
+    font-size: 16px;
+    color: #fff;
+}
+
+.botao-tabeladeprecos1 {
+    display: flex;
+    position: absolute;
+    bottom: 18%;
+    right: 30%;
+    background-color: #2f86d6;
+    border-radius: 4px;
+    padding: 10px 10px 10px 10px;
+    margin: 0;
+
+
+}
+
+.icone-botao {
+
+    margin: auto;
+    padding: 0 10px;
+
+
+
+
+}
+
+
+
+
+.paragrafo-tabeladeprecos {
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.informacoes-home {
+    padding: 100px 0px;
+    background-color: #fff;
+
+}
+
+.texto-informacoes {
+    margin: 0 auto;
+    width: 900px;
+
+}
+
+.subtitulo-informacoes {
+    color: #000000;
+    font-size: 32px;
+
+
+}
+
+span {
+    font-size: 32px;
+    color: #2f86d6;
+}
+
+.topicos-informacoes {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+
+.container-informacoes {
+    margin: 5px;
+    padding-top: 60px;
+    text-align: center;
+
+}
+
+.img-informacoes {
+    width: 33%;
+
+
+}
+
+.subtitulo-icone {
+    font-size: 18px;
+    color: #000000;
+
+
+}
+
+.paragrafo-informacoes {
+    font-size: 16px;
+    color: #000000;
+}
+
+.tabeladeplanos-home {
+    padding: 100px 0px;
+    background-color: #f1f3f7;
+    display: flex;
+    margin: 0 auto;
+
+
+}
+
+.container-tabeladeplanos {
+    margin: 5px auto;
+    max-width: 1024px;
+    padding: 10px 0px
+}
+
+.container-tabela {
+
+
+    margin-top: 15px auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-shadow: 5px 5px 10px 20px #2f86d6;
+
+}
+
+
+
+.img-tabela {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+}
+
+.subtitulo-tabela {
+    font-size: 18px;
+    color: #000000;
+    padding-bottom: 20px;
+}
+
+small {
+    font-size: 13px;
+    color: #a89f9f;
+
+}
+
+.linhaimpar {
+    font-size: 16px;
+    background-color: #f6f6f6;
+}
+
+.linhapar {
+    font-size: 16px;
+    background-color: #f1f3f7;
+}
+
+th,
+td {
+    border: 1px solid #f1f3f7;
+    padding: 10px;
+
+}
+
+.anuncio-home2 {
+    background-color: #2f86d6;
+    padding: 40px 0px;
+    margin: 0 auto;
+
+    display: flex;
+
+    position: relative;
+
+
+}
+
+.texto-anuncio2 {
+    max-height: 1024px;
+    width: 600px;
+    position: absolute;
+    top: 5%;
+    left: 30%;
+
+}
+
+.subtitulo-anuncio2 {
+    font-size: 24px;
+    color: #fff;
+}
+
+
+.botao-tabeladeprecos2 {
+    display: flex;
+    position: absolute;
+    bottom: 18%;
+    right: 30%;
+    background-color: #233032;
+    border-radius: 4px;
+    padding: 10px 10px 10px 10px;
+    margin: 0;
+}
+
+
+.rodape-home {
+    padding: 100px 0px;
+    background-color: #fff;
+    position: relative;
+}
+
+.container-rodape-logo {
+
+    margin: 0 auto;
+    width: 320px;
+    display: flex;
+
+
+
+
+
+
+
+}
+
+.img-rodape-home {
+    margin-right: auto;
+    width: 100px;
+
+
+
+}
+
+.texto-rodape {
+
+    justify-content: center;
+}
+
+.titulo-rodape-home {
+    font-size: 32px;
+    color: #000000;
+
+}
+
+.paragrafo-rodape-home {
+    font-size: 16px;
+    color: #2f86d6;
+
+
+
+
+
+}
+
+.container-paragrafo-rodape {
+    margin: 0px auto;
+
+    display: flex;
+    padding: 10px 0px;
+    text-align: center;
+    
+}
+.texto-paragrafo-rodape {
+    margin: 0px auto;
+
+line-height: 40px;
+}
+.paragrafo-rodape {
+    font-size: 16px;
+    color: #000000;
+    
+}
+
+.ultimo-paragrafo {
+   padding: 20px 0px;
+   background-color: #f1f3f7;
+   text-align: center;
+   
+}
+
+
+
+.paragrafo-rodape {
+    font-size: 20px;
+    font-weight: bold;
+    
+
+}

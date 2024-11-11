@@ -1,0 +1,263 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'poppins', sans-serif;
+
+}
+
+.topo-precos {
+    background-color: #2f86d6;
+    padding: 35px 0;
+
+
+}
+
+.container-logo-precos .img-topo-precos {
+    max-width: 1024px;
+    display: flex;
+    position: relative;
+    margin: 0 auto;
+
+}
+
+.img-topo-precos {
+    width: 80px;
+    position: absolute;
+    top: 0%;
+    right: 27%;
+    margin-right: auto;
+}
+
+.container-titulo-topo-precos {
+    position: absolute;
+    top: 3%;
+    left: 25%;
+}
+
+.titulo-topo-precos {
+    font-size: 35px;
+    color: #000000;
+}
+
+.paragrafo-topo-precos {
+    font-size: 18px;
+    color: #fff
+}
+
+.container-links-topo-precos {
+    top: 6%;
+    right: 13%;
+    position: absolute;
+}
+
+.link-topo-precos {
+    text-decoration: none;
+    font-size: 20px;
+    color: #233032;
+}
+
+.tabeladeprecos {
+    padding: 80px 0px;
+    background-color: #fff;
+
+
+
+}
+
+
+
+
+
+.container-tabela-de-precos {
+    max-width: 1024px;
+    margin: 0px auto;
+    
+
+
+
+
+
+
+
+
+
+
+}
+
+td {
+    margin: 1px auto;
+
+
+
+
+}
+
+.primeira-coluna {
+    background-color: #f1f3f7;
+    margin: 0px auto;
+    padding: 8px 6px 0px 10px;
+
+
+
+
+
+
+
+}
+
+.coluna {
+    background-color: #fff;
+    text-align: center;
+    padding: 15px;
+
+
+
+
+}
+
+
+
+
+
+
+.subtitulo-tabela {
+    color: #000000;
+
+    text-align: center;
+}
+
+.container-vazio {
+    background-color: #fff;
+
+}
+
+small {
+    font-size: 13px;
+    color: #a89f9f;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+td {
+    line-height: 50px;
+
+
+}
+
+th {
+    background-color: #f1f3f7;
+    margin: 0px auto;
+    padding: 10px;
+
+
+
+}
+
+.rodape-precos {
+    padding: 100px 0px;
+    background-color: #2f86d6;
+    position: relative;
+}
+
+.container-rodape-logo {
+
+    margin: 0 auto;
+    width: 320px;
+    display: flex;
+
+
+
+
+
+
+
+}
+
+.img-rodape-precos {
+    margin-right: auto;
+    width: 100px;
+
+
+
+}
+
+.texto-rodape {
+
+    justify-content: center;
+}
+
+.titulo-rodape-precos {
+    font-size: 32px;
+    color: #000000;
+
+}
+
+.paragrafo-rodape-precos {
+    font-size: 16px;
+    color: #2f86d6;
+
+
+
+
+
+}
+
+.container-paragrafo-rodape {
+    margin: 0px auto;
+
+    display: flex;
+    padding: 10px 0px;
+    text-align: center;
+
+}
+
+.texto-paragrafo-rodape {
+    margin: 0px auto;
+
+    line-height: 40px;
+}
+
+.paragrafo-rodape {
+    font-size: 16px;
+    color: #fff;
+
+}
+
+.ultimo-paragrafo {
+    padding: 20px 0px;
+    background-color: #f1f3f7;
+    text-align: center;
+
+}
+
+
+
+.paragrafo-rodape-ultimo {
+    color: #000000;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+span {
+    color: #2f86d6;
+    font-size: 32px;
+}
